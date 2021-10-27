@@ -5,7 +5,7 @@
 
 		<?php 	$file_type = 'about';?>
 		<?php 	$test_type = '';?>
-hello there
+
 		<head>
 			<title>About Us - Another World Films</title>
 			<link rel="shortcut icon" href="/sources/icon.png"/>
